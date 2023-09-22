@@ -55,6 +55,7 @@ button:hover {
   animation-duration: 10s;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
+  position: absolute;
 }
 
 .about {
